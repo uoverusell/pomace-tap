@@ -1,0 +1,21 @@
+{
+  "name": "pomace-tap",
+  "version": "0.0.1",
+  "description": "old pomace tap",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@icoice.github.com:uoverusell/pomace-tap.git"
+  },
+  "keywords": [
+    "pomace-tap"
+  ],
+  "author": "cf",
+  "license": "ISC"
+}
